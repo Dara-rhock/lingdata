@@ -1,4 +1,4 @@
-1	Спасиб...	спасиб...	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@krt1997m=@krt1997m=286.834=286.942
+1	Спасиб...	спасиб...	PART	_	_	_	_	_	words@krt1997m=@krt1997m=286.834=286.942
 2	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=286.942=287.05
 3	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=287.05=287.16
 4	Мик	Мик	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@krt1997m=@krt1997m=291.684=291.873
@@ -61,7 +61,7 @@
 61	разы	раз	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	_	_	_	words@krt1997m=@krt1997m=312.668=312.896
 62	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=312.896=313.124
 63	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=313.124=313.352
-64	Ааа	Ааа	INTJ	_	_	_	_	_	words@krt1997m=@krt1997m=313.352=313.58
+64	Ааа	ааа	INTJ	_	_	_	_	_	words@krt1997m=@krt1997m=313.352=313.58
 65	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=313.58=313.808
 66	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=313.808=314.036
 67	Первый	первый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@krt1997m=@krt1997m=314.036=314.264
@@ -238,7 +238,7 @@
 238	Отстать	отстать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@krt1997m=@krt1997m=360.454=360.588
 239	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=360.588=360.722
 240	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=360.722=360.857
-241	Ааа	Ааа	INTJ	_	_	_	_	_	words@krt1997m=@krt1997m=362.6=362.792
+241	Ааа	ааа	INTJ	_	_	_	_	_	words@krt1997m=@krt1997m=362.6=362.792
 242	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=362.792=362.984
 243	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=362.984=363.176
 244	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@krt1997m=@krt1997m=363.176=363.368
@@ -248,7 +248,7 @@
 248	#нрзб#	#нрзб#	X	_	_	_	_	_	words@krt1997m=@krt1997m=363.944=364.136
 249	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=364.136=364.328
 250	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=364.328=364.52
-251	Да	да	PART	_	Foreign=Yes	_	_	_	words@krt1997m=@krt1997m=364.52=364.712
+251	Да	да	PART	_	_	_	_	_	words@krt1997m=@krt1997m=364.52=364.712
 252	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=364.712=364.904
 253	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=364.904=365.098
 254	Да	да	PART	_	_	_	_	_	words@krt1997m=@krt1997m=365.83=366.062
@@ -332,7 +332,7 @@
 332	Да	да	PART	_	_	_	_	_	words@krt1997m=@krt1997m=410.065=410.167
 333	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=410.167=410.269
 334	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=410.269=410.371
-335	Д...	Д...	INTJ	_	Abbr=Yes	_	_	_	words@krt1997m=@krt1997m=416.352=416.606
+335	Д...	д...	X	_	_	_	_	_	words@krt1997m=@krt1997m=416.352=416.606
 336	огромное	огромный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	words@krt1997m=@krt1997m=416.606=416.86
 337	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=416.86=417.114
 338	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=417.114=417.368
@@ -352,7 +352,7 @@
 352	нет	нет	PART	_	_	_	_	_	words@krt1997m=@krt1997m=442.121=442.265
 353	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=442.265=442.409
 354	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=442.409=442.556
-355	Нда	нда	PART	_	_	_	_	_	words@krt1997m=@krt1997m=447.0=447.088
+355	Нда	нда	INTJ	_	_	_	_	_	words@krt1997m=@krt1997m=447.0=447.088
 356	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=447.088=447.176
 357	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=447.176=447.266
 358	Просто	просто	PART	_	_	_	_	_	words@krt1997m=@krt1997m=449.2=449.441
@@ -398,7 +398,7 @@
 398	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=478.546=478.798
 399	Мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	words@krt1997m=@krt1997m=478.798=479.05
 400	нравятся	нравиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@krt1997m=@krt1997m=479.05=479.302
-401	листья	лист	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	_	_	words@krt1997m=@krt1997m=479.302=479.554
+401	листья	лист	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	_	_	_	words@krt1997m=@krt1997m=479.302=479.554
 402	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=479.554=479.806
 403	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=479.806=480.08
 404	Ммм	Ммм	INTJ	_	_	_	_	_	words@krt1997m=@krt1997m=485.385=485.666
@@ -444,7 +444,7 @@
 444	си...	си...	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@krt1997m=@krt1997m=503.673=503.93
 445	сидеть	сидеть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@krt1997m=@krt1997m=503.93=504.187
 446	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=504.187=504.444
-447	аа	аа	X	_	Foreign=Yes	_	_	_	words@krt1997m=@krt1997m=504.444=504.701
+447	аа	аа	INTJ	_	_	_	_	_	words@krt1997m=@krt1997m=504.444=504.701
 448	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=504.701=504.958
 449	в	в	ADP	_	_	_	_	_	words@krt1997m=@krt1997m=504.958=505.215
 450	кофейне	кофейня	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	words@krt1997m=@krt1997m=505.215=505.472
@@ -541,7 +541,7 @@
 541	и	и	PART	_	_	_	_	_	words@krt1997m=@krt1997m=579.132=579.264
 542	запиши	записать	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	_	_	words@krt1997m=@krt1997m=579.264=579.396
 543	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=579.396=579.528
-544	муг	муг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@krt1997m=@krt1997m=579.528=579.66
+544	муг	муг	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@krt1997m=@krt1997m=579.528=579.66
 545	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=579.66=579.792
 546	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=579.792=579.93
 547	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@krt1997m=@krt1997m=581.18=581.336
@@ -582,7 +582,7 @@
 582	А	а	INTJ	_	_	_	_	_	words@krt1997m=@krt1997m=609.39=609.546
 583	!	!	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=609.546=609.702
 584	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=609.702=609.858
-585	Поп-музыкант	поп-музыкант	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@krt1997m=@krt1997m=609.858=610.014
+585	Поп-музыкант	поп-музыкант	NOUN	_	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@krt1997m=@krt1997m=609.858=610.014
 586	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=610.014=610.17
 587	/	/	PUNCT	_	_	_	_	_	words@krt1997m=@krt1997m=610.17=610.33
 588	Нет	нет	PART	_	_	_	_	_	words@krt1997m=@krt1997m=619.85=620.076
@@ -646,7 +646,7 @@
 646	что	что	PRON	_	Case=Acc	_	_	_	words@iau1978m=@iau1978m=296.486=296.694
 647	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=296.694=296.902
 648	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=296.902=297.12
-649	Господи	Господь	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=304.11=304.257
+649	Господи	Господь	NOUN	_	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=304.11=304.257
 650	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=304.257=304.404
 651	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=304.404=304.551
 652	А	а	PROPN	_	_	_	_	_	words@iau1978m=@iau1978m=304.551=304.698
@@ -752,7 +752,7 @@
 752	Угум	Угум	INTJ	_	_	_	_	_	words@iau1978m=@iau1978m=367.57=367.703
 753	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=367.703=367.836
 754	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=367.836=367.97
-755	Пятюнечку	Пятюнечка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@iau1978m=@iau1978m=376.011=376.194
+755	Пятюнечку	пятюнечка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@iau1978m=@iau1978m=376.011=376.194
 756	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=376.194=376.377
 757	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=376.377=376.56
 758	Хорошая	хороший	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@iau1978m=@iau1978m=379.16=379.374
@@ -761,7 +761,7 @@
 761	Ага	Ага	INTJ	_	_	_	_	_	words@iau1978m=@iau1978m=381.098=381.252
 762	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=381.252=381.406
 763	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=381.406=381.56
-764	Кирилл	Кирилл	PROPN	_	Animacy=Hum|Case=Voc|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=383.09=383.349
+764	Кирилл	Кирилл	PROPN	_	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=383.09=383.349
 765	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=383.349=383.608
 766	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	words@iau1978m=@iau1978m=383.608=383.867
 767	позволите	позволить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m=@iau1978m=383.867=384.126
@@ -773,8 +773,8 @@
 773	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=385.421=385.68
 774	ну	ну	PART	_	_	_	_	_	words@iau1978m=@iau1978m=385.68=385.939
 775	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=385.939=386.198
-776	по...	по...	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@iau1978m=@iau1978m=386.198=386.457
-777	про...	про...	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@iau1978m=@iau1978m=386.457=386.716
+776	по...	по...	X	_	_	_	_	_	words@iau1978m=@iau1978m=386.198=386.457
+777	про...	про...	X	_	_	_	_	_	words@iau1978m=@iau1978m=386.457=386.716
 778	говорить	говорить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@iau1978m=@iau1978m=386.716=386.975
 779	с	с	ADP	_	_	_	_	_	words@iau1978m=@iau1978m=386.975=387.234
 780	вами	вы	PRON	_	Case=Ins|Number=Plur|Person=2	_	_	_	words@iau1978m=@iau1978m=387.234=387.493
@@ -783,11 +783,11 @@
 783	тему	тема	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@iau1978m=@iau1978m=388.011=388.27
 784	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=388.27=388.529
 785	потому	потому	ADV	_	Degree=Pos	_	_	_	words@iau1978m=@iau1978m=388.529=388.788
-786	что	что	SCONJ	_	_	_	_	_	words@iau1978m=@iau1978m=388.788=389.047
+786	что	что	PART	_	_	_	_	_	words@iau1978m=@iau1978m=388.788=389.047
 787	у	у	ADP	_	_	_	_	_	words@iau1978m=@iau1978m=389.047=389.306
 788	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	words@iau1978m=@iau1978m=389.306=389.565
 789	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=389.565=389.824
-790	дочери	дочь	NOUN	_	Animacy=Hum|Case=Nom|Gender=Fem|Number=Plur	_	_	_	words@iau1978m=@iau1978m=389.824=390.083
+790	дочери	дочь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	_	_	_	words@iau1978m=@iau1978m=389.824=390.083
 791	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=390.083=390.342
 792	и	и	CCONJ	_	_	_	_	_	words@iau1978m=@iau1978m=390.342=390.601
 793	очевидно	очевидный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	words@iau1978m=@iau1978m=390.601=390.86
@@ -827,11 +827,11 @@
 827	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=399.847=400.074
 828	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=400.074=400.301
 829	До	до	ADP	_	_	_	_	_	words@iau1978m=@iau1978m=400.301=400.528
-830	скольки	сколько	ADV	_	Degree=Pos	_	_	_	words@iau1978m=@iau1978m=400.528=400.755
+830	скольки	сколько	NUM	_	_	_	_	_	words@iau1978m=@iau1978m=400.528=400.755
 831	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=400.755=400.982
 832	или	или	CCONJ	_	_	_	_	_	words@iau1978m=@iau1978m=400.982=401.209
 833	со	с	ADP	_	_	_	_	_	words@iau1978m=@iau1978m=401.209=401.436
-834	скольки	скольки	ADV	_	Degree=Pos	_	_	_	words@iau1978m=@iau1978m=401.436=401.663
+834	скольки	сколько	NUM	_	_	_	_	_	words@iau1978m=@iau1978m=401.436=401.663
 835	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=401.663=401.89
 836	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	words@iau1978m=@iau1978m=401.89=402.117
 837	бы	бы	AUX	_	_	_	_	_	words@iau1978m=@iau1978m=402.117=402.344
@@ -844,7 +844,7 @@
 844	рекомендовали	рекомендовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m=@iau1978m=403.706=403.933
 845	слушать	слушать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@iau1978m=@iau1978m=403.933=404.16
 846	песни	песня	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	words@iau1978m=@iau1978m=404.16=404.387
-847	которые	который	PRON	_	Case=Acc	_	_	_	words@iau1978m=@iau1978m=404.387=404.614
+847	которые	который	ADP+PRON	_	Case=Acc	_	_	_	words@iau1978m=@iau1978m=404.387=404.614
 848	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	words@iau1978m=@iau1978m=404.614=404.841
 849	поете	поеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m=@iau1978m=404.841=405.068
 850	?	?	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=405.068=405.295
@@ -868,7 +868,7 @@
 868	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=412.607=412.82
 869	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@iau1978m=@iau1978m=412.82=413.033
 870	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=413.033=413.246
-871	а	а	X	_	_	_	_	_	words@iau1978m=@iau1978m=413.246=413.459
+871	а	а	INTJ	_	_	_	_	_	words@iau1978m=@iau1978m=413.246=413.459
 872	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=413.459=413.672
 873	полагаю	полагать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m=@iau1978m=413.672=413.885
 874	что	что	SCONJ	_	_	_	_	_	words@iau1978m=@iau1978m=413.885=414.098
@@ -922,7 +922,7 @@
 922	уверен	уверенный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	_	_	_	words@iau1978m=@iau1978m=427.081=427.338
 923	что	что	SCONJ	_	_	_	_	_	words@iau1978m=@iau1978m=427.338=427.595
 924	девочки	девочка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	_	_	_	words@iau1978m=@iau1978m=427.595=427.852
-925	которым	который	PRON	_	Case=Dat	_	_	_	words@iau1978m=@iau1978m=427.852=428.109
+925	которым	который	ADP+PRON	_	Case=Dat	_	_	_	words@iau1978m=@iau1978m=427.852=428.109
 926	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	words@iau1978m=@iau1978m=428.109=428.366
 927	пятнадцать-шестнадцать	пятнадцать-шестнадцать	NUM	_	Case=Acc	_	_	_	words@iau1978m=@iau1978m=428.366=428.623
 928	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=428.623=428.88
@@ -938,7 +938,7 @@
 938	заполняют	заполнять	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m=@iau1978m=431.193=431.45
 939	такие	такой	DET	_	Case=Acc|Number=Plur	_	_	_	words@iau1978m=@iau1978m=431.45=431.707
 940	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=431.707=431.964
-941	де...	де...	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	_	_	_	words@iau1978m=@iau1978m=431.964=432.221
+941	де...	де...	X	_	_	_	_	_	words@iau1978m=@iau1978m=431.964=432.221
 942	девичьи	девичий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	_	_	_	words@iau1978m=@iau1978m=432.221=432.478
 943	анкеты	анкета	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	words@iau1978m=@iau1978m=432.478=432.735
 944	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=432.735=432.992
@@ -957,7 +957,7 @@
 957	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=435.96=436.17
 958	как	как	SCONJ	_	_	_	_	_	words@iau1978m=@iau1978m=436.17=436.38
 959	человек	человек	NOUN	_	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=436.38=436.59
-960	который	который	PRON	_	Case=Nom	_	_	_	words@iau1978m=@iau1978m=436.59=436.8
+960	который	который	ADP+PRON	_	Case=Nom	_	_	_	words@iau1978m=@iau1978m=436.59=436.8
 961	является	являться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@iau1978m=@iau1978m=436.8=437.01
 962	кумиром	кумир	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=437.01=437.22
 963	этих	этот	DET	_	Case=Gen|Number=Plur	_	_	_	words@iau1978m=@iau1978m=437.22=437.43
@@ -969,7 +969,7 @@
 969	вопросы	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	_	_	words@iau1978m=@iau1978m=438.48=438.69
 970	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=438.69=438.9
 971	на	на	ADP	_	_	_	_	_	words@iau1978m=@iau1978m=438.9=439.11
-972	которые	который	PRON	_	Case=Acc	_	_	_	words@iau1978m=@iau1978m=439.11=439.32
+972	которые	который	ADP+PRON	_	Case=Acc	_	_	_	words@iau1978m=@iau1978m=439.11=439.32
 973	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	words@iau1978m=@iau1978m=439.32=439.53
 974	отвечают	отвечать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m=@iau1978m=439.53=439.74
 975	чаще	часто	ADV	_	Degree=Cmp	_	_	_	words@iau1978m=@iau1978m=439.74=439.95
@@ -979,14 +979,14 @@
 979	будете	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m=@iau1978m=440.58=440.79
 980	против	против	ADV	_	Degree=Pos	_	_	_	words@iau1978m=@iau1978m=440.79=441.0
 981	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=441.0=441.21
-982	Кирилл	Кирилл	PROPN	_	Animacy=Hum|Case=Voc|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=441.21=441.42
+982	Кирилл	Кирилл	PROPN	_	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=441.21=441.42
 983	?	?	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=441.42=441.63
 984	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=441.63=441.84
 985	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=441.84=442.079
 986	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	words@iau1978m=@iau1978m=443.17=443.379
 987	первый	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=443.379=443.588
-988	человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=443.588=443.797
-989	который	который	PRON	_	Case=Nom	_	_	_	words@iau1978m=@iau1978m=443.797=444.006
+988	человек	человек	NOUN	_	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=443.588=443.797
+989	который	который	ADP+PRON	_	Case=Nom	_	_	_	words@iau1978m=@iau1978m=443.797=444.006
 990	допивает	допивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m=@iau1978m=444.006=444.215
 991	все	все	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@iau1978m=@iau1978m=444.215=444.424
 992	из	из	ADP	_	_	_	_	_	words@iau1978m=@iau1978m=444.424=444.633
@@ -1023,7 +1023,7 @@
 1023	ээ	ээ	INTJ	_	_	_	_	_	words@iau1978m=@iau1978m=451.897=452.093
 1024	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=452.093=452.289
 1025	ну	ну	PART	_	_	_	_	_	words@iau1978m=@iau1978m=452.289=452.485
-1026	не	не	PART	_	Polarity=Neg	_	_	_	words@iau1978m=@iau1978m=452.485=452.681
+1026	не	не	PART	_	_	_	_	_	words@iau1978m=@iau1978m=452.485=452.681
 1027	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@iau1978m=@iau1978m=452.681=452.877
 1028	чтобы	чтобы	SCONJ	_	Mood=Cnd	_	_	_	words@iau1978m=@iau1978m=452.877=453.073
 1029	понимаю	понимать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m=@iau1978m=453.073=453.269
@@ -1050,7 +1050,7 @@
 1050	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=463.69=463.84
 1051	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=463.84=464.0
 1052	Ну	ну	PART	_	_	_	_	_	words@iau1978m=@iau1978m=466.477=466.644
-1053	Мить	Мить	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=466.644=466.811
+1053	Мить	Митя	PROPN	_	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=466.644=466.811
 1054	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=466.811=466.978
 1055	про	про	ADP	_	_	_	_	_	words@iau1978m=@iau1978m=466.978=467.145
 1056	тебя-то	тебя-та	PRON	_	Case=Acc|Number=Sing|Person=2	_	_	_	words@iau1978m=@iau1978m=467.145=467.312
@@ -1066,7 +1066,7 @@
 1066	время	время	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@iau1978m=@iau1978m=469.838=470.01
 1067	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=470.01=470.182
 1068	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=470.182=470.354
-1069	Кирилл	Кирилл	PROPN	_	Animacy=Hum|Case=Voc|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=470.354=470.526
+1069	Кирилл	Кирилл	PROPN	_	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=470.354=470.526
 1070	?	?	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=470.526=470.698
 1071	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=470.698=470.87
 1072	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=470.87=471.046
@@ -1080,17 +1080,17 @@
 1080	время	время	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@iau1978m=@iau1978m=480.83=481.081
 1081	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=481.081=481.332
 1082	потому	потому	ADV	_	Degree=Pos	_	_	_	words@iau1978m=@iau1978m=481.332=481.583
-1083	что	что	SCONJ	_	_	_	_	_	words@iau1978m=@iau1978m=481.583=481.834
+1083	что	что	PART	_	_	_	_	_	words@iau1978m=@iau1978m=481.583=481.834
 1084	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@iau1978m=@iau1978m=481.834=482.085
 1085	фантастическая	фантастический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@iau1978m=@iau1978m=482.085=482.336
 1086	осень	осень	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@iau1978m=@iau1978m=482.336=482.587
-1087	c...	c...	ADP	_	_	_	_	_	words@iau1978m=@iau1978m=482.587=482.838
+1087	c...	c...	X	_	_	_	_	_	words@iau1978m=@iau1978m=482.587=482.838
 1088	зае...	зае...	X	_	_	_	_	_	words@iau1978m=@iau1978m=482.838=483.089
 1089	яркими	яркий	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	_	_	_	words@iau1978m=@iau1978m=483.089=483.34
 1090	деревьями	дерево	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	_	_	_	words@iau1978m=@iau1978m=483.34=483.591
 1091	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=483.591=483.842
 1092	с	с	ADP	_	_	_	_	_	words@iau1978m=@iau1978m=483.842=484.093
-1093	тил...	тил...	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@iau1978m=@iau1978m=484.093=484.344
+1093	тил...	тил...	X	_	_	_	_	_	words@iau1978m=@iau1978m=484.093=484.344
 1094	с	с	ADP	_	_	_	_	_	words@iau1978m=@iau1978m=484.344=484.595
 1095	теплой	теплый	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@iau1978m=@iau1978m=484.595=484.846
 1096	погодой	погода	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	words@iau1978m=@iau1978m=484.846=485.097
@@ -1157,7 +1157,7 @@
 1157	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=500.136=500.355
 1158	#смех#	#смех#	X	_	_	_	_	_	words@iau1978m=@iau1978m=501.305=502.915
 1159	Ну	ну	PART	_	_	_	_	_	words@iau1978m=@iau1978m=510.652=510.781
-1160	естественно	естественно	ADV	_	Degree=Pos	_	_	_	words@iau1978m=@iau1978m=510.781=510.91
+1160	естественно	естественно	INTJ	_	_	_	_	_	words@iau1978m=@iau1978m=510.781=510.91
 1161	!	!	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=510.91=511.039
 1162	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=511.039=511.168
 1163	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=511.168=511.297
@@ -1182,7 +1182,7 @@
 1182	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	words@iau1978m=@iau1978m=517.714=517.928
 1183	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=517.928=518.142
 1184	к...	к...	X	_	_	_	_	_	words@iau1978m=@iau1978m=518.142=518.356
-1185	ку...	ку...	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m=@iau1978m=518.356=518.57
+1185	ку...	ку...	X	_	_	_	_	_	words@iau1978m=@iau1978m=518.356=518.57
 1186	курите	курить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m=@iau1978m=518.57=518.784
 1187	незаженную	незаженный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@iau1978m=@iau1978m=518.784=518.998
 1188	?	?	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=518.998=519.212
@@ -1194,7 +1194,7 @@
 1194	улицу	улица	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@iau1978m=@iau1978m=521.045=521.272
 1195	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=521.272=521.499
 1196	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=521.499=521.726
-1197	Так	так	ADV	_	Degree=Pos	_	_	_	words@iau1978m=@iau1978m=521.726=521.953
+1197	Так	так	INTJ	_	_	_	_	_	words@iau1978m=@iau1978m=521.726=521.953
 1198	!	!	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=521.953=522.18
 1199	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=522.18=522.407
 1200	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=522.407=522.634
@@ -1248,7 +1248,7 @@
 1248	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@iau1978m=@iau1978m=552.601=552.833
 1249	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=552.833=553.065
 1250	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=553.065=553.297
-1251	Ваша	ваш	DET	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=553.297=553.529
+1251	Ваша	ваш	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=553.297=553.529
 1252	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=553.529=553.761
 1253	и	и	CCONJ	_	_	_	_	_	words@iau1978m=@iau1978m=553.761=553.993
 1254	чеснока	чеснок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=553.993=554.225
@@ -1291,10 +1291,10 @@
 1291	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=562.577=562.809
 1292	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	words@iau1978m=@iau1978m=562.809=563.041
 1293	потому	потому	ADV	_	Degree=Pos	_	_	_	words@iau1978m=@iau1978m=563.041=563.273
-1294	что	что	SCONJ	_	_	_	_	_	words@iau1978m=@iau1978m=563.273=563.505
+1294	что	что	PART	_	_	_	_	_	words@iau1978m=@iau1978m=563.273=563.505
 1295	ваш	ваш	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=563.505=563.737
 1296	менеджер	менеджер	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=563.737=563.969
-1297	который	который	PRON	_	Case=Acc	_	_	_	words@iau1978m=@iau1978m=563.969=564.201
+1297	который	который	ADP+PRON	_	Case=Nom	_	_	_	words@iau1978m=@iau1978m=563.969=564.201
 1298	подходил	подходить	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m=@iau1978m=564.201=564.433
 1299	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	words@iau1978m=@iau1978m=564.433=564.665
 1300	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m=@iau1978m=564.665=564.897
@@ -1313,11 +1313,11 @@
 1313	не	не	PART	_	_	_	_	_	words@iau1978m=@iau1978m=567.681=567.913
 1314	говорите	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m=@iau1978m=567.913=568.145
 1315	с	с	ADP	_	_	_	_	_	words@iau1978m=@iau1978m=568.145=568.377
-1316	Кириллом	Кирилл	PROPN	_	Animacy=Hum|Case=Ins|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=568.377=568.609
+1316	Кириллом	Кирилл	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=568.377=568.609
 1317	про	про	ADP	_	_	_	_	_	words@iau1978m=@iau1978m=568.609=568.841
 1318	чеснок	чеснок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=568.841=569.073
 1319	потому	потому	ADV	_	Degree=Pos	_	_	_	words@iau1978m=@iau1978m=569.073=569.305
-1320	что	что	SCONJ	_	_	_	_	_	words@iau1978m=@iau1978m=569.305=569.537
+1320	что	что	PART	_	_	_	_	_	words@iau1978m=@iau1978m=569.305=569.537
 1321	для	для	ADP	_	_	_	_	_	words@iau1978m=@iau1978m=569.537=569.769
 1322	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	_	_	_	words@iau1978m=@iau1978m=569.769=570.001
 1323	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@iau1978m=@iau1978m=570.001=570.233
@@ -1330,7 +1330,7 @@
 1330	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=571.625=571.857
 1331	а	а	INTJ	_	_	_	_	_	words@iau1978m=@iau1978m=571.857=572.089
 1332	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=572.089=572.321
-1333	значит	значить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m=@iau1978m=572.321=572.553
+1333	значит	значит	ADV	_	Degree=Pos	_	_	_	words@iau1978m=@iau1978m=572.321=572.553
 1334	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=572.553=572.785
 1335	звук	звук	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=572.785=573.017
 1336	!	!	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=573.017=573.249
@@ -1451,7 +1451,7 @@
 1451	вообще	вообще	ADV	_	Degree=Pos	_	_	_	words@iau1978m=@iau1978m=608.245=608.42
 1452	уходить	уходить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	words@iau1978m=@iau1978m=608.42=608.595
 1453	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=608.595=608.77
-1454	Кирилл	Кирилл	PROPN	_	Animacy=Hum|Case=Voc|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=608.77=608.945
+1454	Кирилл	Кирилл	PROPN	_	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=608.77=608.945
 1455	!	!	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=608.945=609.12
 1456	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=609.12=609.295
 1457	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=609.295=609.49
@@ -1463,7 +1463,7 @@
 1463	последний	последний	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=613.454=613.681
 1464	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=613.681=613.908
 1465	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=613.908=614.135
-1466	который	который	PRON	_	Case=Acc	_	_	_	words@iau1978m=@iau1978m=614.135=614.362
+1466	который	который	ADP+PRON	_	Case=Acc	_	_	_	words@iau1978m=@iau1978m=614.135=614.362
 1467	задают	задавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m=@iau1978m=614.362=614.589
 1468	друг	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=614.589=614.816
 1469	другу	друг	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=614.816=615.043
@@ -1486,7 +1486,7 @@
 1486	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	_	_	_	words@iau1978m=@iau1978m=618.675=618.902
 1487	счастливы	счастливый	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	_	_	_	words@iau1978m=@iau1978m=618.902=619.129
 1488	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=619.129=619.356
-1489	Кирилл	Кирилл	PROPN	_	Animacy=Hum|Case=Voc|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=619.356=619.583
+1489	Кирилл	Кирилл	PROPN	_	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=619.356=619.583
 1490	?	?	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=619.583=619.81
 1491	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=619.81=620.037
 1492	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=620.037=620.27
@@ -1498,7 +1498,7 @@
 1498	#смех#	#смех#	X	_	_	_	_	_	words@iau1978m=@iau1978m=624.91=625.24
 1499	Все	все	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	words@iau1978m=@iau1978m=625.74=626.005
 1500	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=626.005=626.27
-1501	значит	значить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m=@iau1978m=626.27=626.535
+1501	значит	значит	ADV	_	Degree=Pos	_	_	_	words@iau1978m=@iau1978m=626.27=626.535
 1502	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=626.535=626.8
 1503	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=626.8=627.065
 1504	Значит	значит	ADV	_	Degree=Pos	_	_	_	words@iau1978m=@iau1978m=627.065=627.33
@@ -1529,12 +1529,12 @@
 1529	разбила	разбить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m=@iau1978m=633.69=633.955
 1530	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=633.955=634.22
 1531	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=634.22=634.5
-1532	Кирилл	Кирилл	PROPN	_	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=635.76=636.007
+1532	Кирилл	Кирилл	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=635.76=636.007
 1533	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=636.007=636.254
-1534	Бледный	Бледный	PROPN	_	Animacy=Hum|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=636.254=636.501
+1534	Бледный	Бледный	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=636.254=636.501
 1535	!	!	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=636.501=636.748
 1536	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=636.748=636.995
-1537	Кирилл	Кирилл	PROPN	_	Animacy=Hum|Case=Voc|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=636.995=637.242
+1537	Кирилл	Кирилл	PROPN	_	Animacy=Anim|Case=Voc|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=636.995=637.242
 1538	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=637.242=637.489
 1539	будьте	быть	AUX	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m=@iau1978m=637.489=637.736
 1540	любезны	любезный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	_	_	_	words@iau1978m=@iau1978m=637.736=637.983
@@ -1548,10 +1548,10 @@
 1548	давайте	давать	VERB	_	Aspect=Imp|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m=@iau1978m=639.712=639.959
 1549	поаплодируем	поаплодировать	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	_	_	_	words@iau1978m=@iau1978m=639.959=640.206
 1550	сейчас	сейчас	ADV	_	Degree=Pos	_	_	_	words@iau1978m=@iau1978m=640.206=640.453
-1551	Кириллу	Кирилл	PROPN	_	Animacy=Hum|Case=Dat|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=640.453=640.7
+1551	Кириллу	Кирилл	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	_	_	_	words@iau1978m=@iau1978m=640.453=640.7
 1552	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=640.7=640.947
 1553	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=640.947=641.194
-1554	Спасибо	спасибо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	words@iau1978m=@iau1978m=641.194=641.441
+1554	Спасибо	спасибо	PART	_	_	_	_	_	words@iau1978m=@iau1978m=641.194=641.441
 1555	огромное	огромный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	words@iau1978m=@iau1978m=641.441=641.688
 1556	!	!	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=641.688=641.935
 1557	/	/	PUNCT	_	_	_	_	_	words@iau1978m=@iau1978m=641.935=642.182
@@ -1572,4 +1572,3 @@
 1572	говорите	говорить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@dyh1979m=@dyh1979m=469.074=469.241
 1573	/	/	PUNCT	_	_	_	_	_	words@dyh1979m=@dyh1979m=469.241=469.408
 1574	/	/	PUNCT	_	_	_	_	_	words@dyh1979m=@dyh1979m=469.408=469.577
-
