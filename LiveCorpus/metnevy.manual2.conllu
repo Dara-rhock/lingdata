@@ -35,7 +35,7 @@
 35	/	/	PUNCT	_	_	_	_	_	words@im1980f=@im1980f=11.236=11.6
 36	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@im1980f=@im1980f=23.01=23.414
 37	работаю	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@im1980f=@im1980f=23.414=23.818
-38	*усмешка*	*усмешка*	X	_		_	_	_	words@im1980f=@im1980f=23.818=24.222
+38	*усмешка*	*усмешка*	X	_	_	_	_	_	words@im1980f=@im1980f=23.818=24.222
 39	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	words@im1980f=@im1980f=24.222=24.626
 40	работаю	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@im1980f=@im1980f=24.626=25.03
 41	/	/	PUNCT	_	_	_	_	_	words@im1980f=@im1980f=25.03=25.434
