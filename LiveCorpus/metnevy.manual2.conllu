@@ -481,7 +481,7 @@
 481	что	что	SCONJ	_	_	_	_	_	words@im1980f=@im1980f=268.248=268.556
 482	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	words@im1980f=@im1980f=268.556=268.864
 483	тоже	тоже	PART	_	_	_	_	_	words@im1980f=@im1980f=268.864=269.172
-484	стоит	стоить	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@im1980f=@im1980f=269.172=269.48
+484	стоит	стоить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@im1980f=@im1980f=269.172=269.48
 485	поступить	поступить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	words@im1980f=@im1980f=269.48=269.788
 486	подобным	подобный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	words@im1980f=@im1980f=269.788=270.096
 487	образом	образ	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	words@im1980f=@im1980f=270.096=270.404
